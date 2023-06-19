@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "4dae1266f8f42a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "695f46bb3c623069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1bc1dedddee2b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/开发/hexo配合githubpages搭建免费博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "870d20d10f2644e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "958d0e5777dfc094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b14738a0dfd85df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "592518e24542c33e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d3f9a5b2edff0ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22deef7865f14586",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e94620cd148dbad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84bbb711217e9fb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/开发/hexo配合githubpages搭建免费博客.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48ac6402ab4108d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/开发/hexo配合githubpages搭建免费博客.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80cddca5d3882767",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "592f3b17ebfddffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/开发/hexo配合githubpages搭建免费博客.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c1bc1dedddee2b8e",
+  "lastOpenFiles": [
+    "source/_posts/开发/hexo配合githubpages搭建免费博客.md"
+  ]
+}
